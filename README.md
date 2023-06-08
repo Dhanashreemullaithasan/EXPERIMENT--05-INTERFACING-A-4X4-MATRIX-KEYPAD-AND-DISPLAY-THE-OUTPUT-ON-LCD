@@ -183,8 +183,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by : Shobika P
-Register no : 212221230096
+Developed by : DHANASHREE M
+Register no : 212221230018
 
 #include "main.h"
 #include<stdbool.h>

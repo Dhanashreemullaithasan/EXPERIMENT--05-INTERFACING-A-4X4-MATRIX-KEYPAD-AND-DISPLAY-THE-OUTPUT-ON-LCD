@@ -179,6 +179,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## CIRCUIT DIAGRAM 
  
+![circuit pmc](https://github.com/Dhanashreemullaithasan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165415/1c0fe66f-88ca-45b0-a0c1-11ded67bf8ab)
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -366,6 +367,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- 
+ ![ex55 pmc](https://github.com/Dhanashreemullaithasan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165415/8369ecf0-b877-437f-9f21-d8bcf777d20a)
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.

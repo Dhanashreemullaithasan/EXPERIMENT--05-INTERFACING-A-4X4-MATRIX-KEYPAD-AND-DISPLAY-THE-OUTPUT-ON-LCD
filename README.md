@@ -179,7 +179,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## CIRCUIT DIAGRAM 
  
-![Uploading circuit pmc.png…]()
 
 ## STM 32 CUBE PROGRAM :
 ```
